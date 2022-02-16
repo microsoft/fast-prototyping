@@ -12,7 +12,7 @@ DevSecOps in Azure, reference architecture:
 * [DevSquad Sping Cloud](https://github.com/oaviles/hello_springcloud)
 * [DevSquad Kubernetes](https://github.com/oaviles/hello_cloud-native)
 * [DevSquad DevOps](https://github.com/oaviles/DevSquad/tree/main/DevOps_Wizard)
-* [DevSquad IoT](https://github.com/oaviles/DevSquad/tree/main/IoT-Hero)
+* [DevSquad IoT](https://github.com/luisruval/DevSquad-IoT)
 
 ## Trademarks
 
