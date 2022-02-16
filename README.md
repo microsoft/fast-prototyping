@@ -1,6 +1,18 @@
-# Fast Prototyping
+# DevSquad: Fast Prototyping
 
-This repo is under construction.
+## Abstracts
+
+In this repo, you will learn how to build and deloy modern Cloud-Native apps based on reference arquitectures, supported by best practices of [Software Engineering](https://github.com/microsoft/code-with-engineering-playbook/blob/main/docs/ENG-FUNDAMENTALS-CHECKLIST.md) and [Secure DevOps Practices](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-github). 
+
+DevSecOps in Azure, reference architecture:
+![DevSecOps Reference Architecture](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/media/devsecops-in-github-data-flow.png)
+
+### Check More DevSquad Projects
+* [DevSquad Serverless](https://github.com/oaviles/hello_serverless)
+* [DevSquad Sping Cloud](https://github.com/oaviles/hello_springcloud)
+* [DevSquad Kubernetes](https://github.com/oaviles/hello_cloud-native)
+* [DevSquad DevOps](https://github.com/oaviles/DevSquad/tree/main/DevOps_Wizard)
+* [DevSquad IoT](https://github.com/oaviles/DevSquad/tree/main/IoT-Hero)
 
 ## Trademarks
 
