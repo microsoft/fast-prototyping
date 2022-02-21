@@ -8,12 +8,14 @@ DevSecOps in Azure, reference architecture:
 ![DevSecOps Reference Architecture](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/media/devsecops-in-github-data-flow.png)
 
 ### Check More DevSquad Projects
+
 * [DevSquad App Service Project](https://github.com/oaviles/hello_appservice)
 * [DevSquad Serverless Project](https://github.com/oaviles/hello_serverless)
 * [DevSquad Sping Cloud Project](https://github.com/oaviles/hello_springcloud)
 * [DevSquad Kubernetes Project](https://github.com/oaviles/hello_cloud-native)
 * [DevSquad DevOps Project](https://github.com/oaviles/DevSquad/tree/main/DevOps_Wizard)
 * [DevSquad IoT Project](https://github.com/luisruval/DevSquad-IoT)
+
 
 ## Trademarks
 
