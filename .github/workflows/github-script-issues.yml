@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: GitHub Script Issue Demo 
+name: GitHub Script Issue Message 
 
 on:
   issues:
