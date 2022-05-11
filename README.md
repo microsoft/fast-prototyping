@@ -9,6 +9,7 @@ In this repo, you will learn how to build and deloy modern Cloud-Native apps bas
 
 ### Check More DevSquad Projects
 
+* [DevSquad IaC Project](https://github.com/oaviles/hello_iac)
 * [DevSquad App Service Project](https://github.com/oaviles/hello_appservice)
 * [DevSquad Serverless Project](https://github.com/oaviles/hello_serverless)
 * [DevSquad Sping Cloud Project](https://github.com/oaviles/hello_springcloud)
