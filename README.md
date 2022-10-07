@@ -7,7 +7,7 @@ In this repo, you will learn how to build and deloy modern Cloud-Native apps bas
 [DevSecOps in Azure](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-github), reference architecture
 ![DevSecOps Reference Architecture](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/media/devsecops-in-github-data-flow.png)
 
-### Check More DevSquad Projects
+### Check More DevSquad Accelerators
 
 * [DevSquad IaC Accelerator](https://github.com/oaviles/hello_iac)
 * [DevSquad App Service Accelerator](https://github.com/oaviles/hello_appservice)
