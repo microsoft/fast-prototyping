@@ -1,4 +1,4 @@
-# DevSquad: Fast Prototyping
+# DevSquad Accelerator
 
 ## Abstracts
 
