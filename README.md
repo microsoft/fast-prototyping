@@ -9,14 +9,15 @@ In this repo, you will learn how to build and deloy modern Cloud-Native apps bas
 
 ### Check More DevSquad Projects
 
-* [DevSquad IaC Project](https://github.com/oaviles/hello_iac)
-* [DevSquad App Service Project](https://github.com/oaviles/hello_appservice)
-* [DevSquad Serverless Project](https://github.com/oaviles/hello_serverless)
-* [DevSquad Sping Cloud Project](https://github.com/oaviles/hello_springcloud)
-* [DevSquad Kubernetes Project](https://github.com/oaviles/hello_cloud-native)
-* [DevSquad DevOps Project](https://github.com/oaviles/DevSquad/tree/main/DevOps_Wizard)
-* [DevSquad IoT Project](https://github.com/luisruval/DevSquad-IoT)
-
+* [DevSquad IaC Accelerator](https://github.com/oaviles/hello_iac)
+* [DevSquad App Service Accelerator](https://github.com/oaviles/hello_appservice)
+* [DevSquad Serverless Accelerator](https://github.com/oaviles/hello_serverless)
+* [DevSquad Sping Cloud Accelerator](https://github.com/oaviles/hello_springcloud)
+* [DevSquad Kubernetes Accelerator](https://github.com/oaviles/hello_cloud-native)
+* [DevSquad Azure Red Hat OpenShift Accelerator](https://github.com/oaviles/hello_ARO)
+* [DevSquad DevOps Accelerator](https://github.com/oaviles/DevSquad/tree/main/DevOps_Wizard)
+* [DevSquad IoT Accelerator](https://github.com/luisruval/DevSquad-IoT)
+* [DevSquad Java on Azure Accelerator](https://github.com/oaviles/hello_java)
 
 ## Trademarks
 
